@@ -3,6 +3,7 @@
 from bs4 import BeautifulSoup
 import urllib3
 import re
+import sys
 
 http = urllib3.PoolManager()
 
@@ -19,21 +20,43 @@ pretty_html.close()
 
 prog_id = re.compile( "^r[0-9]+$" )
 index = 1
+
+sys.stdout.write( "\nProcessing results ..." )
+
+results = []
+titles = []
+refs = []
 for table_row in soup.find_all( "td"):
-    #print("\nLine "+str(index))
-
-    #print( table_row.attrs )
+    # study result
     try:
-        # matches = prog_id.match( table_row['id'] )
-        # print( table_row['id'], matches )
+        print (  set( table_row['class'] ) )
+        if set( [ 'xatd' , 'xresult' ] ) & set( table_row['class'] ) == set( [ 'xatd' , 'xresult' ] ):
+            results.append( table_row.contents )
+    except:
+        pass
 
-        if table_row['class'] == [ 'ratd' , 'ref' ]:
-            print("\n\nStudy " + str(index))
+    # study reference
+    try:
+        if table_row['class'] == [ 'xctd' , 'xref' ]:
+            #print("\n\nStudy " + str(index))
+            #print(table_row)
+            #print(table_row.contents)
 
-            print(table_row)
-            print(table_row.contents)
+            refs.append( table_row.contents )
 
             index += 1
     except:
         pass
-    #print(study)
+
+    # study title
+    try:
+        if table_row['class'] == [ 'xctd' , 'xtitle' ]:
+            titles.append( table_row.contents )
+    except:
+        pass
+
+sys.stdout.write("\nTotal titles: " + str(len(titles)) )
+sys.stdout.write("\nTotal refs: " + str(len(refs)) )
+sys.stdout.write("\nTotal results: " + str(len(results)) )
+
+print('\n')
