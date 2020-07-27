@@ -1,0 +1,232 @@
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm1"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Negative
+</div>, <div class="mobile resultmob" id="rm2"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm3"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Meta
+</div>, <div class="mobile resultmob" id="rm4"><div class="resultmob2">META</div></div>]
+[<div class="desktop">Meta
+</div>, <div class="mobile resultmob" id="rm5"><div class="resultmob2">META</div></div>]
+[<div class="desktop">Inconc.
+</div>, <div class="mobile resultmob" id="rm6"><div class="resultmob2">INCONC.</div></div>]
+[<div class="desktop">Inconc.
+</div>, <div class="mobile resultmob" id="rm7"><div class="resultmob2">INCONC.</div></div>]
+[<div class="desktop">Meta
+</div>, <div class="mobile resultmob" id="rm8"><div class="resultmob2">META</div></div>]
+[<div class="desktop">Negative
+</div>, <div class="mobile resultmob" id="rm9"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm10"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm11"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm12"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Safety
+</div>, <div class="mobile resultmob" id="rm13"><div class="resultmob2">SAFETY</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm14"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm15"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Safety
+</div>, <div class="mobile resultmob" id="rm16"><div class="resultmob2">SAFETY</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm17"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">In Vitro
+</div>, <div class="mobile resultmob" id="rm18"><div class="resultmob2">IN VITRO</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm19"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+<br/><span class="note">(news)</span>
+</div>, <div class="mobile resultmob" id="rm20"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Negative
+<br/><span class="note">(news)</span>
+</div>, <div class="mobile resultmob" id="rm21"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm22"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Inconc.
+</div>, <div class="mobile resultmob" id="rm23"><div class="resultmob2">INCONC.</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm24"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Negative
+<br/><span class="note">(news)</span>
+</div>, <div class="mobile resultmob" id="rm25"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+<br/><span class="note">(news)</span>
+</div>, <div class="mobile resultmob" id="rm26"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Theory
+</div>, <div class="mobile resultmob" id="rm27"><div class="resultmob2">THEORY</div></div>]
+[<div class="desktop">Negative
+</div>, <div class="mobile resultmob" id="rm28"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm29"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm30"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm31"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Meta
+</div>, <div class="mobile resultmob" id="rm32"><div class="resultmob2">META</div></div>]
+[<div class="desktop">Negative
+</div>, <div class="mobile resultmob" id="rm33"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+<br/><span class="note">(see notes)</span>
+</div>, <div class="mobile resultmob" id="rm34"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm35"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm36"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm37"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm38"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm39"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Meta
+</div>, <div class="mobile resultmob" id="rm40"><div class="resultmob2">META</div></div>]
+[<div class="desktop">Negative
+</div>, <div class="mobile resultmob" id="rm41"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+<br/><span class="note">(advisory)</span>
+</div>, <div class="mobile resultmob" id="rm42"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Retracted
+</div>, <div class="mobile resultmob" id="rm43"><div class="resultmob2">RETRACTED</div></div>]
+[<div class="desktop">Meta
+</div>, <div class="mobile resultmob" id="rm44"><div class="resultmob2">META</div></div>]
+[<div class="desktop">Negative
+</div>, <div class="mobile resultmob" id="rm45"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm46"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm47"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Inconc.
+</div>, <div class="mobile resultmob" id="rm48"><div class="resultmob2">INCONC.</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm49"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Negative
+</div>, <div class="mobile resultmob" id="rm50"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm51"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Negative
+</div>, <div class="mobile resultmob" id="rm52"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm53"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm54"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Theory
+</div>, <div class="mobile resultmob" id="rm55"><div class="resultmob2">THEORY</div></div>]
+[<div class="desktop">Inconc.
+</div>, <div class="mobile resultmob" id="rm56"><div class="resultmob2">INCONC.</div></div>]
+[<div class="desktop">Positive
+<br/><span class="note">(news)</span>
+</div>, <div class="mobile resultmob" id="rm57"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Animal
+</div>, <div class="mobile resultmob" id="rm58"><div class="resultmob2">ANIMAL</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm59"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm60"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Inconc.
+</div>, <div class="mobile resultmob" id="rm61"><div class="resultmob2">INCONC.</div></div>]
+[<div class="desktop">Safety
+</div>, <div class="mobile resultmob" id="rm62"><div class="resultmob2">SAFETY</div></div>]
+[<div class="desktop">Safety
+</div>, <div class="mobile resultmob" id="rm63"><div class="resultmob2">SAFETY</div></div>]
+[<div class="desktop">Positive
+<br/><span class="note">(news)</span>
+</div>, <div class="mobile resultmob" id="rm64"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm65"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Safety
+</div>, <div class="mobile resultmob" id="rm66"><div class="resultmob2">SAFETY</div></div>]
+[<div class="desktop">In Vitro
+</div>, <div class="mobile resultmob" id="rm67"><div class="resultmob2">IN VITRO</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm68"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm69"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Negative
+</div>, <div class="mobile resultmob" id="rm70"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm71"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Negative
+</div>, <div class="mobile resultmob" id="rm72"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm73"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Negative
+</div>, <div class="mobile resultmob" id="rm74"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm75"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Negative
+</div>, <div class="mobile resultmob" id="rm76"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm77"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Meta
+</div>, <div class="mobile resultmob" id="rm78"><div class="resultmob2">META</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm79"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm80"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">In Vitro
+</div>, <div class="mobile resultmob" id="rm81"><div class="resultmob2">IN VITRO</div></div>]
+[<div class="desktop">Negative
+<br/><span class="note">(letter)</span>
+</div>, <div class="mobile resultmob" id="rm82"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+<br/><span class="note">(news)</span>
+</div>, <div class="mobile resultmob" id="rm83"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Theory
+</div>, <div class="mobile resultmob" id="rm84"><div class="resultmob2">THEORY</div></div>]
+[<div class="desktop">Theory
+</div>, <div class="mobile resultmob" id="rm85"><div class="resultmob2">THEORY</div></div>]
+[<div class="desktop">Positive
+<br/><span class="note">(advisory)</span>
+</div>, <div class="mobile resultmob" id="rm86"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+<br/><span class="note">(news)</span>
+</div>, <div class="mobile resultmob" id="rm87"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">In Vitro
+</div>, <div class="mobile resultmob" id="rm88"><div class="resultmob2">IN VITRO</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm89"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Review
+</div>, <div class="mobile resultmob" id="rm90"><div class="resultmob2">REVIEW</div></div>]
+[<div class="desktop">Review
+</div>, <div class="mobile resultmob" id="rm91"><div class="resultmob2">REVIEW</div></div>]
+[<div class="desktop">Theory
+</div>, <div class="mobile resultmob" id="rm92"><div class="resultmob2">THEORY</div></div>]
+[<div class="desktop">Meta
+</div>, <div class="mobile resultmob" id="rm93"><div class="resultmob2">META</div></div>]
+[<div class="desktop">In Vitro
+</div>, <div class="mobile resultmob" id="rm94"><div class="resultmob2">IN VITRO</div></div>]
+[<div class="desktop">Negative
+</div>, <div class="mobile resultmob" id="rm95"><div class="resultmob2">NEGATIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm96"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm97"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+</div>, <div class="mobile resultmob" id="rm98"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">Positive
+<br/><span class="note">(news)</span>
+</div>, <div class="mobile resultmob" id="rm99"><div class="resultmob2">POSITIVE</div></div>]
+[<div class="desktop">In Vitro
+</div>, <div class="mobile resultmob" id="rm100"><div class="resultmob2">IN VITRO</div></div>]
+[<div class="desktop">In Vitro
+</div>, <div class="mobile resultmob" id="rm101"><div class="resultmob2">IN VITRO</div></div>]
+[<div class="desktop">Animal
+</div>, <div class="mobile resultmob" id="rm102"><div class="resultmob2">ANIMAL</div></div>]
+[<div class="desktop">Animal
+</div>, <div class="mobile resultmob" id="rm103"><div class="resultmob2">ANIMAL</div></div>]
+[<div class="desktop">In Vitro
+</div>, <div class="mobile resultmob" id="rm104"><div class="resultmob2">IN VITRO</div></div>]
+[<div class="desktop">In Vitro
+</div>, <div class="mobile resultmob" id="rm105"><div class="resultmob2">IN VITRO</div></div>]
+[<div class="desktop">In Vitro
+</div>, <div class="mobile resultmob" id="rm106"><div class="resultmob2">IN VITRO</div></div>]
+[<div class="desktop">In Vitro
+</div>, <div class="mobile resultmob" id="rm107"><div class="resultmob2">IN VITRO</div></div>]
+[<div class="desktop">Theory
+</div>, <div class="mobile resultmob" id="rm108"><div class="resultmob2">THEORY</div></div>]
+[<div class="desktop">Positive
+<br/><span class="note">(news)</span>
+</div>, <div class="mobile resultmob" id="rm109"><div class="resultmob2">POSITIVE</div></div>]
